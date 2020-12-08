@@ -1,0 +1,17 @@
+commit 9cb7c1c968bb99765a0311bdd50f201a37be0409
+Author: Flezcano <fabian_lezcano93@hotmail.com>
+Date:   Tue Dec 8 02:20:41 2020 -0300
+
+    Otro cambio en Index
+
+commit d50fc7d8b3e210b0963e92cd6c7b6a6d7100c389
+Author: Flezcano <fabian_lezcano93@hotmail.com>
+Date:   Tue Dec 8 02:18:37 2020 -0300
+
+    Agregamos cambio en Index
+
+commit 3511346f2da30bdf528c8aefa33ffd069c9c65f0
+Author: Flezcano <fabian_lezcano93@hotmail.com>
+Date:   Tue Dec 8 02:16:06 2020 -0300
+
+    Primer Commit 08/12
